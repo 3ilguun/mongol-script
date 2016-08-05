@@ -1,0 +1,7 @@
+{
+  "name": "mongol-script",
+  "dependencies": {
+    "jquery": "1.8.3",
+    "jquery-mousewheel": "^3.1.13"
+  }
+}
